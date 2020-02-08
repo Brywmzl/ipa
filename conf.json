@@ -1,6 +1,5 @@
 {
   "item": [
-    "Shu",
     "Download",
     "80",
     "8000",
@@ -8,7 +7,6 @@
   ],
   "port": [
     {
-      "Shu": "shu.xml",
       "Download": "download.xml",
       "80": "80.xml",
       "8000": "80.xml",
