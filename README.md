@@ -1,7 +1,7 @@
 # README
 
 ## add_rule
-Surge:`USER-AGENT,com.apple.appstored*,PROXY`
+Surge: `USER-AGENT,com.apple.appstored*,PROXY`
 
 ## port
 
