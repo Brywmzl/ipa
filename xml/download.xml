@@ -17,7 +17,7 @@
                         <key>metadata</key>
                         <dict>
                             <key>bundle-identifier</key>
-                            <string>com.brywmzl</string>
+                            <string>com.brywmzl.apps</string>
                             <key>bundle-version</key>
                             <string>6.0.0</string>
                             <key>kind</key>
