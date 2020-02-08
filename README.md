@@ -12,4 +12,4 @@ Surge:`USER-AGENT,com.apple.appstored*,PROXY`
 |8000|https://raw.githubusercontent.com/Brywmzl/ipa/master/xml/8000.xml|
 |8080|https://raw.githubusercontent.com/Brywmzl/ipa/master/xml/8080.xml|
 
-Open: `itms-services://?action=download-manifest&url=`+`url`
+Safari: `itms-services://?action=download-manifest&url=`+`url`
