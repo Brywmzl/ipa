@@ -7,7 +7,7 @@
   ],
   "port": [
     {
-      "Download": "download.xml",
+      "Download": "shu2.xml",
       "80": "80.xml",
       "8000": "80.xml",
       "8080": "8080.xml"
