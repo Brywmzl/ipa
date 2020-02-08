@@ -1,4 +1,4 @@
-# Note
+# README
 
 ## add_rule
 `USER-AGENT,com.apple.appstored*,PROXY`
