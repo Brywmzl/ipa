@@ -1,20 +1,16 @@
 {
   "item": [
-    "Shu",
-    "nPlayer",
-    "FileMaster",
-    "FileHub",
-    "Documents",
-    "文件全能王"
+    "download",
+    "80",
+    "8000",
+    "8080"
   ],
   "url": [
     {
-      "Shu": "http://localhost/download?path=/app.ipa",
-      "nPlayer": "http://localhost:8000/app.ipa",
-      "FileMaster": "http://localhost:8000/app.ipa",
-      "FileHub": "http://localhost:8080/app.ipa",
-      "Documents": "http://localhost:8080/app.ipa",
-      "文件全能王": "http://localhost:8080/app.ipa"
+      "download": "download.xml",
+      "80": "80.xml",
+      "8000": "80.xml",
+      "8080": "8080.xml"
     }
   ]
 }
