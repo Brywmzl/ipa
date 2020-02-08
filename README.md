@@ -1,7 +1,7 @@
 # README
 
 ## add_rule
-`USER-AGENT,com.apple.appstored*,PROXY`
+Surge:`AND,((USER-AGENT,com.apple.appstored*), (DOMAIN-SUFFIX,githubusercontent.com)),PROXY`
 
 ## select_port
 
