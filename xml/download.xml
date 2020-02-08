@@ -17,9 +17,9 @@
                         <key>metadata</key>
                         <dict>
                             <key>bundle-identifier</key>
-                            <string>com.brywmzl.apps</string>
+                            <string>com.nnoy</string>
                             <key>bundle-version</key>
-                            <string>6.0.0</string>
+                            <string>5.2.0</string>
                             <key>kind</key>
                             <string>software</string>
                             <key>title</key>
