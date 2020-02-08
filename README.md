@@ -3,7 +3,7 @@
 ## add_rule
 Surge:`USER-AGENT,com.apple.appstored*,PROXY`
 
-## select_port
+## port
 
 |port|url|
 |:-:|:--|
